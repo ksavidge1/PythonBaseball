@@ -11,7 +11,7 @@ The following data sources were used in this project:
 - [Fangraphs](https://www.fangraphs.com/): Wide range of statistics, metrics, and tools for evaluating player and team performance.
 - [Baseball Savant](https://baseballsavant.mlb.com/): Statcast data for detailed player performance and pitch-level metrics.
 
-Thanks to the library [Pybaseball](https://github.com/jldbc/pybaseball) to help scrape data from the web. 
+Thanks to the library [Pybaseball](https://github.com/jldbc/pybaseball) for providing helpful functions to scrape data from the web. 
 
 ## Requirements
 
