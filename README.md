@@ -26,6 +26,8 @@ To run the code in this repository, you'll need the following:
   - seaborn
   - scikit-learn
   - requests
+  - selenium
+  - pybaseball
 
 You can install the required packages using pip
 
